@@ -952,6 +952,9 @@
                   "margin-right": "0 !important"
                 }
               }
+            },
+            ".mbr-timeline-title": {
+              "color": "#232323"
             }
           },
           "_name": "timeline2",
