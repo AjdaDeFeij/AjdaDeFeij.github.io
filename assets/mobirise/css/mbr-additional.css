@@ -1870,6 +1870,51 @@ body {
     font-size: 40px !important;
   }
 }
+.cid-rzBc3CwRbo {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/mbr-1-1920x1082.jpg");
+}
+.cid-rzBc3CwRbo .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rzBc3CwRbo .formoid {
+  margin: auto;
+}
+.cid-rzBc3CwRbo .form-control {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+.cid-rzBc3CwRbo .input-group-btn .btn {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin: 0 !important;
+}
+.cid-rzBc3CwRbo a:not([href]):not([tabindex]) {
+  color: #fff;
+}
+.cid-rzBc3CwRbo a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+@media (max-width: 768px) {
+  .cid-rzBc3CwRbo .mbr-form .row {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .cid-rzBc3CwRbo .form-group,
+  .cid-rzBc3CwRbo .input-group-btn,
+  .cid-rzBc3CwRbo .input-group-btn .btn {
+    max-width: 300px;
+    width: 100%;
+  }
+}
+@media (min-width: 769px) {
+  .cid-rzBc3CwRbo .mbr-form .row > * {
+    padding: 0 0.5rem;
+  }
+}
 .cid-rh8y41SecA {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -2071,51 +2116,6 @@ body {
 }
 .cid-rt4mY0YUaN .mbr-timeline-title {
   color: #232323;
-}
-.cid-rzBc3CwRbo {
-  padding-top: 75px;
-  padding-bottom: 75px;
-  background-image: url("../../../assets/images/mbr-1-1920x1082.jpg");
-}
-.cid-rzBc3CwRbo .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rzBc3CwRbo .formoid {
-  margin: auto;
-}
-.cid-rzBc3CwRbo .form-control {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-}
-.cid-rzBc3CwRbo .input-group-btn .btn {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  margin: 0 !important;
-}
-.cid-rzBc3CwRbo a:not([href]):not([tabindex]) {
-  color: #fff;
-}
-.cid-rzBc3CwRbo a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-@media (max-width: 768px) {
-  .cid-rzBc3CwRbo .mbr-form .row {
-    -webkit-flex-direction: column;
-    flex-direction: column;
-    -webkit-align-items: center;
-    align-items: center;
-  }
-  .cid-rzBc3CwRbo .form-group,
-  .cid-rzBc3CwRbo .input-group-btn,
-  .cid-rzBc3CwRbo .input-group-btn .btn {
-    max-width: 300px;
-    width: 100%;
-  }
-}
-@media (min-width: 769px) {
-  .cid-rzBc3CwRbo .mbr-form .row > * {
-    padding: 0 0.5rem;
-  }
 }
 .cid-rh8sDcomd4 {
   background: #232323;
