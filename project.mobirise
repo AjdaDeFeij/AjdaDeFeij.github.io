@@ -1032,7 +1032,7 @@
             "token": "6242823895.727bfe1.01395a4f8cbd443fbdd2449e20c8e2a5",
             "showTitle": true,
             "layoutGridRadio": true,
-            "imagesPerRowGrid": "4",
+            "imagesPerRowGrid": "3",
             "rows": "2",
             "showMoreButton": true,
             "layoutSliderRadio": false,
