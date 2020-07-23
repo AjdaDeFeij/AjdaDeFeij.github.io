@@ -46,7 +46,7 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 35,
-    "versionPublish": "4.11.6",
+    "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-aical-cirkel-128x125.png",
     "noImageResize": "",
@@ -56,7 +56,8 @@
     "sitemapSwitcherAuto": "on",
     "cookiesAlert": "",
     "gdpr": "",
-    "google-analytics": ""
+    "google-analytics": "",
+    "imageResize": true
   },
   "pages": {
     "index.html": {
@@ -759,7 +760,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "'Disguised Sign'<br>Acrylic on 60x80 canvas",
+                "caption": "'Disguised Sign'<br>[SOLD]",
                 "active": false
               },
               {
@@ -772,7 +773,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "‘Composed Desire I’<br>Acrylic on 80x100cm Canvas",
+                "caption": "‘Composed Desire I’<br>",
                 "active": false
               },
               {
@@ -819,12 +820,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/4c8e4233-52cf-49a6-9013-bfbda0063230-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/4c8e4233-52cf-49a6-9013-bfbda0063230-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3750-2000x1499.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3750-2000x1499-800x600.jpg",
                 "alt": "",
-                "title": "'Number 3'",
+                "title": "'Consequences'",
                 "customStyle1": "display-7",
-                "caption": "'Number 3'<br>[SOLD]<br>",
+                "caption": "'Consequences'<br>[SOLD]",
                 "active": false
               }
             ]
@@ -976,7 +977,7 @@
         },
         {
           "_params": {
-            "token": "6242823895.727bfe1.174b72b16a9b4e2b865aae14957f76b5",
+            "account": "mobirise",
             "showTitle": true,
             "layoutGridRadio": true,
             "imagesPerRowGrid": "3",
