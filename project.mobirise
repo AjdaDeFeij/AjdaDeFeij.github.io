@@ -52,12 +52,13 @@
     "noImageResize": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
-    "siteUrl": "",
+    "siteUrl": false,
     "sitemapSwitcherAuto": "on",
-    "cookiesAlert": "",
-    "gdpr": "",
     "google-analytics": "",
-    "imageResize": true
+    "imageResize": true,
+    "sitemapSwitcher": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
